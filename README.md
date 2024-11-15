@@ -12,6 +12,7 @@ A full-stack user authentication system built with Express, MongoDB, JWT, bcrypt
 
 ## Tech Stack
 
+
 - **Frontend:** React
 - **Backend:** Express, Node.js
 - **Database:** MongoDB with Mongoose
@@ -20,6 +21,9 @@ A full-stack user authentication system built with Express, MongoDB, JWT, bcrypt
 ## Usage
 
 - **Register a new user** by entering credentials on the registration page.
+![Screenshot (217)](https://github.com/user-attachments/assets/67f18c5b-0e72-4137-b018-d1806f1c05f5)
+
+
 - **Login** to receive a JWT token, which is stored for session management.
 - **Secure Routes** are accessible only when authenticated, thanks to the JWT verification.
 
